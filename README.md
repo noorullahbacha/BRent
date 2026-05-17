@@ -56,7 +56,33 @@ This project was developed to strengthen practical skills in:
 
 ## Screenshots & Demo
 
+Home Page:
 
+<img width="1867" height="838" alt="BRent07" src="https://github.com/user-attachments/assets/5c386864-78ad-4f5a-96d4-d0fca69d9756" />
+
+<img width="1875" height="583" alt="BRent08" src="https://github.com/user-attachments/assets/75587ebc-5540-4ea7-a830-a355a97502d2" />
+
+<img width="1834" height="814" alt="BRent09" src="https://github.com/user-attachments/assets/b5cf54f0-86ee-4229-be99-70f810c8491f" />
+
+
+Dashboard:
+
+<img width="1885" height="819" alt="BRent 01" src="https://github.com/user-attachments/assets/2143d09b-0000-416c-a4fc-d2c746675c16" />
+
+Chat:
+
+<img width="1903" height="808" alt="BRent02" src="https://github.com/user-attachments/assets/c1aa2df2-c511-4114-b114-16e99b597d7b" />
+
+Property Management:
+<img width="1906" height="751" alt="BRent04" src="https://github.com/user-attachments/assets/7b16c9d3-d90b-4442-a14f-4693a0c3f297" />
+
+Users and their roles:
+
+<img width="1891" height="682" alt="BRent05" src="https://github.com/user-attachments/assets/4d2f7f04-2ff5-4bfa-b28e-d6fa837f2312" />
+
+Reviews:
+
+<img width="1885" height="739" alt="BRent06" src="https://github.com/user-attachments/assets/de9127b5-7dfd-4add-b4ef-7c8d98542f13" />
 
 ---
 
